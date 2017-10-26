@@ -14,4 +14,11 @@ public class myFrame {
     int bilbulat;
     double bilDesimal;
     
+    void cetakAttribute (){
+        System.out.println("Isi dari pesan :"+pesan);
+        System.out.println("Isi dari bilbulat :"+bilbulat);
+        System.out.println("Isi dari bilDesimal :"+bilDesimal);
+        
+    }
+    
 }
