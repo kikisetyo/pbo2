@@ -10,5 +10,8 @@ package pbo2;
  * @author proWindows 10
  */
 public class myFrame {
+    String pesan;
+    int bilbulat;
+    double bilDesimal;
     
 }
